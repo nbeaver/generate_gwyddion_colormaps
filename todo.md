@@ -1,0 +1,1 @@
+- [ ] Make script to copy to correct locations on Linux/Windows
