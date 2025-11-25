@@ -1,3 +1,6 @@
+Description:
+Generate Gywddion-compatible files for some common matplotlib colormaps.
+
 This generates gwyddion colormaps for the following matplotlib colormaps:
 
 - viridis
